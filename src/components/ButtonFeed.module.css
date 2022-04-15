@@ -1,0 +1,19 @@
+.button {
+  height: auto;
+  width: auto;
+  padding: 0.5rem;
+  border: 0.5px solid #ff5f00;
+  background-color: white;
+  outline:none;
+  color: #ff5f00;
+  border-radius: 0.5rem;
+  transition:0.5s;
+}
+
+
+.button:hover{
+    cursor:pointer;
+    border:0.5px solid #fff;
+    background-color: #ff5f00;
+    color: #fff;
+}
