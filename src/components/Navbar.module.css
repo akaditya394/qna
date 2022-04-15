@@ -4,7 +4,7 @@
 
 .navbar{
     color:#ff5f00;
-    width: 85%;
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content:space-around;
