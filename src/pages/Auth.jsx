@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import styles from "./Auth.module.css";
 
 function Auth() {
   return (
-    <div>Auth</div>
+    <section className={styles.auth}>
+
+    </section>
   )
 }
 
